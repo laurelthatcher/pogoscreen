@@ -3,6 +3,12 @@ Sign into Club Pogo Member
 
 Are you ready to dive back into your favorite games but unsure how to complete your Club Pogo member sign in? Whether you're a long-time Pogo fan or just renewed your subscription, understanding how to log in is the key to enjoying all that Club Pogo has to offer. This guide walks you through the full process of the Club Pogo member sign in, how to access exclusive features, manage your account, and solve common login problems.
 
+.. raw:: html
+
+   <div style="text-align:center;">
+       <a href="https://pogo-desk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Pogo</a>
+   </div>
+
 If you’re already subscribed, you don’t need to register again—just follow the right steps for a successful Club Pogo member sign in and resume playing instantly. This article will use the phrase club pogo member sign in multiple times to help guide you through login, password recovery, and user account management.
 
 What Is Club Pogo?
@@ -182,4 +188,5 @@ The club pogo member sign in process is straightforward, allowing members to qui
 By following this guide, you're now ready to enjoy everything Club Pogo has to offer—ad-free games, exclusive challenges, and the satisfaction of collecting rare badges. Stay signed in, stay entertained.
 
 Need help or facing login issues? Visit the Help Center:  
+
 `https://help.ea.com/en/pogo/pogo/ <https://help.ea.com/en/pogo/pogo/>`_
